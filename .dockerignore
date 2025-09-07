@@ -1,0 +1,5 @@
+.env.example
+Caddyfile.example
+compose-example.yml
+LICENSE
+README.md

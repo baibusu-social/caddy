@@ -1,0 +1,5 @@
+{
+  # Global options block (must come first!)
+  # Cloudflare DNS challenge for automatic HTTPS
+  acme_dns cloudflare {env.CLOUDFLARE_API_TOKEN}
+}
