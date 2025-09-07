@@ -1,7 +1,7 @@
 <div align="center">
   <br />
    <p>
-    <img src="https://share.baibusu.social/ZiCX0UZb.png">
+    <img src="https://share.baibusu.social/3i5ZRj2K.png">
   </p>
 
 ![Discord](https://img.shields.io/discord/162293073718673409?style=for-the-badge&color=%237289da)
@@ -12,11 +12,11 @@
 [![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions 'Go to GitHub Actions homepage')
 [![Baibusu.Social](https://img.shields.io/badge/Baibusu.Social-a793b2?style=for-the-badge&logo=misskey&logoColor=white)](https://baibusu.social/ 'Go to Baibusu.Social')
 
-</div>
-
-# **Baibusu.Social Caddy**
-
+<p>
 Caddy docker image utilized by Baibusu social for reverse proxy and management. Includes Cloudflare DNS challenge for SSL settings.
+</p>
+
+</div>
 
 ## Deployment
 
